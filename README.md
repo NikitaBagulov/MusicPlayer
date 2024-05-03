@@ -1,2 +1,2 @@
 # MusicPlayer
-![video](https://github.com/NikitaBagulov/MusicPlayer/blob/main/1.webm)
+[video](https://github.com/NikitaBagulov/MusicPlayer/blob/main/1.webm)
